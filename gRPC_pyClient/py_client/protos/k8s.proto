@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package k8s;
+
+service K8s {
+  rpc CreateDockerContainerPod (CreateDockerContainerPodRequest) returns (CreateDockerContainerPodResponse);
+}
+
+message CreateDockerContainerPodRequest {
+  string name = 1;
+}
+
+message CreateDockerContainerPodResponse {
+  string mess = 1;
+}

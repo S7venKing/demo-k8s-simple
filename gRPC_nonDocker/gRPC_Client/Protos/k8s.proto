@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPC_nonDocker";
+
+package k8s;
+// The greeting service definition.
+service K8s {
+  // Sends a greeting
+  rpc CreateDockerContainerPod (CreateDockerContainerPodRequest) returns (CreateDockerContainerPodResponse);
+}
+
+// The request message containing the user's name.
+message CreateDockerContainerPodRequest {
+  string name = 1;
+}
+
+// The response message containing the greetings.
+message CreateDockerContainerPodResponse {
+  string message = 1;
+}

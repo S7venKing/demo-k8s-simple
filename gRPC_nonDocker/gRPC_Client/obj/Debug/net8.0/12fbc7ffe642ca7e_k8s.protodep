@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/K8S.cs \
+obj\Debug\net8.0\Protos/K8sGrpc.cs: Protos/k8s.proto

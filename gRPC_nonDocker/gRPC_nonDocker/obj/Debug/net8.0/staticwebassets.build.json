@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5TKiM7+fhDAjnCtc+2QQs0QdizOTjfNzrkDkvgxB/Cg=",
+  "Source": "gRPC_nonDocker",
+  "BasePath": "_content/gRPC_nonDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
