@@ -1,4 +1,5 @@
 ﻿using Grpc.Core;
+using Grpc.Net.Client.Balancer;
 using gRPC_nonDocker.Protos;
 using IdentityModel.OidcClient;
 using k8s;
@@ -19,7 +20,7 @@ namespace gRPC_nonDocker.Services
         public override Task<CreateDockerContainerPodResponse> CreateDockerContainerPod(CreateDockerContainerPodRequest request, ServerCallContext context)
         {
 
-           try
+            try
             {
                 IKubernetes client = new Kubernetes(_k8sconfig);
                 // Define the pod specification - demo but will use infor from request
@@ -32,6 +33,7 @@ namespace gRPC_nonDocker.Services
                     },
                     Spec = new V1PodSpec
                     {
+                        
                         Containers = new List<V1Container>
                 {
                     new V1Container
@@ -42,14 +44,15 @@ namespace gRPC_nonDocker.Services
                         {
                             new V1ContainerPort(containerPort: 80)
                         }
-                    }
+                    },
+
                 }
                     }
                 };
                 // Create the pod in the default namespace
-                var result =  client.CoreV1.CreateNamespacedPodAsync(pod, namespaceParameter: "default").Result;
+                var result = client.CoreV1.CreateNamespacedPodAsync(pod, namespaceParameter: "default").Result;
                 Console.WriteLine($"Pod created with name: {result.Metadata.Name}");
-                return Task.FromResult(new CreateDockerContainerPodResponse { Mess = $"{result.Metadata.Name}"});
+                return Task.FromResult(new CreateDockerContainerPodResponse { Mess = $"{result.Metadata.Name}" });
             }
             catch (Exception ex)
             {
@@ -58,5 +61,5 @@ namespace gRPC_nonDocker.Services
             }
         }
     }
-    
+
 }

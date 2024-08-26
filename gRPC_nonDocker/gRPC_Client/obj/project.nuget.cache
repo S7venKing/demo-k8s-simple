@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "POsUs4qd1vg=",
+  "dgSpecHash": "6CY5MeqK7Eg=",
   "success": true,
-  "projectFilePath": "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_Client\\gRPC_Client.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Source\\Repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_Client\\gRPC_Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\google.protobuf\\3.27.3\\google.protobuf.3.27.3.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\grpc.core.api\\2.65.0\\grpc.core.api.2.65.0.nupkg.sha512",

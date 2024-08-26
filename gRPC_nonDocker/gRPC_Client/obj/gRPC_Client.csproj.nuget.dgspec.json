@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_Client\\gRPC_Client.csproj": {}
+    "C:\\Users\\Asus\\Source\\Repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_Client\\gRPC_Client.csproj": {}
   },
   "projects": {
-    "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_Client\\gRPC_Client.csproj": {
+    "C:\\Users\\Asus\\Source\\Repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_Client\\gRPC_Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_Client\\gRPC_Client.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Source\\Repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_Client\\gRPC_Client.csproj",
         "projectName": "gRPC_Client",
-        "projectPath": "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_Client\\gRPC_Client.csproj",
+        "projectPath": "C:\\Users\\Asus\\Source\\Repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_Client\\gRPC_Client.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_Client\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Source\\Repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

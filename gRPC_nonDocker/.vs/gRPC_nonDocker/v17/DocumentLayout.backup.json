@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\GRPC\\GRPC\\gRPC_nonDocker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F4F636B-270D-4747-BC6A-67A971410C35}|gRPC_Client\\gRPC_Client.csproj|d:\\grpc\\grpc\\grpc_nondocker\\grpc_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4F636B-270D-4747-BC6A-67A971410C35}|gRPC_Client\\gRPC_Client.csproj|solutionrelative:grpc_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4F636B-270D-4747-BC6A-67A971410C35}|gRPC_Client\\gRPC_Client.csproj|d:\\grpc\\grpc\\grpc_nondocker\\grpc_client\\protos\\k8s.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4F4F636B-270D-4747-BC6A-67A971410C35}|gRPC_Client\\gRPC_Client.csproj|solutionrelative:grpc_client\\protos\\k8s.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|d:\\grpc\\grpc\\grpc_nondocker\\grpc_nondocker\\services\\k8sservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|solutionrelative:grpc_nondocker\\services\\k8sservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "k8s.proto",
+              "DocumentMoniker": "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_Client\\Protos\\k8s.proto",
+              "RelativeDocumentMoniker": "gRPC_Client\\Protos\\k8s.proto",
+              "ToolTip": "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_Client\\Protos\\k8s.proto",
+              "RelativeToolTip": "gRPC_Client\\Protos\\k8s.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-08-25T06:53:33.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_Client\\Program.cs",
+              "RelativeDocumentMoniker": "gRPC_Client\\Program.cs",
+              "ToolTip": "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_Client\\Program.cs",
+              "RelativeToolTip": "gRPC_Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:53:32.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_nonDocker\\Program.cs",
               "RelativeDocumentMoniker": "gRPC_nonDocker\\Program.cs",
@@ -35,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "K8sService.cs",
               "DocumentMoniker": "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_nonDocker\\Services\\K8sService.cs",
               "RelativeDocumentMoniker": "gRPC_nonDocker\\Services\\K8sService.cs",
               "ToolTip": "D:\\GRPC\\GRPC\\gRPC_nonDocker\\gRPC_nonDocker\\Services\\K8sService.cs",
               "RelativeToolTip": "gRPC_nonDocker\\Services\\K8sService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T06:03:50.505Z",
               "EditorCaption": ""
