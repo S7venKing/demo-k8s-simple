@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|c:\\users\\asus\\source\\repos\\demo-k8s-simple\\grpc_nondocker\\grpc_nondocker\\services\\k8sservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|solutionrelative:grpc_nondocker\\services\\k8sservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|c:\\users\\asus\\source\\repos\\demo-k8s-simple\\grpc_nondocker\\grpc_nondocker\\tests\\dockerbussinesslogictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|solutionrelative:grpc_nondocker\\tests\\dockerbussinesslogictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F4F636B-270D-4747-BC6A-67A971410C35}|gRPC_Client\\gRPC_Client.csproj|c:\\users\\asus\\source\\repos\\demo-k8s-simple\\grpc_nondocker\\grpc_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4F636B-270D-4747-BC6A-67A971410C35}|gRPC_Client\\gRPC_Client.csproj|solutionrelative:grpc_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|c:\\users\\asus\\source\\repos\\demo-k8s-simple\\grpc_nondocker\\grpc_nondocker\\bussinesslogic\\dockerbussinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|solutionrelative:grpc_nondocker\\bussinesslogic\\dockerbussinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|c:\\users\\asus\\source\\repos\\demo-k8s-simple\\grpc_nondocker\\grpc_nondocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|solutionrelative:grpc_nondocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|c:\\users\\asus\\source\\repos\\demo-k8s-simple\\grpc_nondocker\\grpc_nondocker\\protos\\k8s.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|solutionrelative:grpc_nondocker\\protos\\k8s.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|c:\\users\\asus\\source\\repos\\demo-k8s-simple\\grpc_nondocker\\grpc_nondocker\\dockerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|solutionrelative:grpc_nondocker\\dockerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F4F636B-270D-4747-BC6A-67A971410C35}|gRPC_Client\\gRPC_Client.csproj|c:\\users\\asus\\source\\repos\\demo-k8s-simple\\grpc_nondocker\\grpc_client\\protos\\k8s.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{4F4F636B-270D-4747-BC6A-67A971410C35}|gRPC_Client\\gRPC_Client.csproj|solutionrelative:grpc_client\\protos\\k8s.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|c:\\users\\asus\\source\\repos\\demo-k8s-simple\\grpc_nondocker\\grpc_nondocker\\services\\k8sservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|solutionrelative:grpc_nondocker\\services\\k8sservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|c:\\users\\asus\\source\\repos\\demo-k8s-simple\\grpc_nondocker\\grpc_nondocker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D92EF3AD-FE44-4F40-B3EC-AD2E302FA6BB}|gRPC_nonDocker\\gRPC_nonDocker.csproj|solutionrelative:grpc_nondocker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,44 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DockerBussinessLogicTest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\Tests\\DockerBussinessLogicTest.cs",
+              "RelativeDocumentMoniker": "gRPC_nonDocker\\Tests\\DockerBussinessLogicTest.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\Tests\\DockerBussinessLogicTest.cs",
+              "RelativeToolTip": "gRPC_nonDocker\\Tests\\DockerBussinessLogicTest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:49:55.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "k8s.proto",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\Protos\\k8s.proto",
-              "RelativeDocumentMoniker": "gRPC_nonDocker\\Protos\\k8s.proto",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\Protos\\k8s.proto",
-              "RelativeToolTip": "gRPC_nonDocker\\Protos\\k8s.proto",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2024-08-25T17:58:56.478Z",
+              "Title": "DockerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\DockerConfig.cs",
+              "RelativeDocumentMoniker": "gRPC_nonDocker\\DockerConfig.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\DockerConfig.cs",
+              "RelativeToolTip": "gRPC_nonDocker\\DockerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:38:58.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "k8s.proto",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_Client\\Protos\\k8s.proto",
-              "RelativeDocumentMoniker": "gRPC_Client\\Protos\\k8s.proto",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_Client\\Protos\\k8s.proto",
-              "RelativeToolTip": "gRPC_Client\\Protos\\k8s.proto",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2024-08-25T06:53:33.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_Client\\Program.cs",
-              "RelativeDocumentMoniker": "gRPC_Client\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_Client\\Program.cs",
-              "RelativeToolTip": "gRPC_Client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "K8sService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\Services\\K8sService.cs",
+              "RelativeDocumentMoniker": "gRPC_nonDocker\\Services\\K8sService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\Services\\K8sService.cs",
+              "RelativeToolTip": "gRPC_nonDocker\\Services\\K8sService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T06:53:32.326Z",
+              "WhenOpened": "2024-08-26T12:35:16.226Z",
               "EditorCaption": ""
             },
             {
@@ -78,22 +83,35 @@
               "RelativeDocumentMoniker": "gRPC_nonDocker\\Program.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\Program.cs",
               "RelativeToolTip": "gRPC_nonDocker\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T06:17:22.208Z",
+              "WhenOpened": "2024-08-26T12:22:58.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "K8sService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\Services\\K8sService.cs",
-              "RelativeDocumentMoniker": "gRPC_nonDocker\\Services\\K8sService.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\Services\\K8sService.cs",
-              "RelativeToolTip": "gRPC_nonDocker\\Services\\K8sService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAYwCsAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DockerBussinessLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Source\\Repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\BussinessLogic\\DockerBussinessLogic.cs",
+              "RelativeDocumentMoniker": "gRPC_nonDocker\\BussinessLogic\\DockerBussinessLogic.cs",
+              "ToolTip": "C:\\Users\\Asus\\Source\\Repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\BussinessLogic\\DockerBussinessLogic.cs",
+              "RelativeToolTip": "gRPC_nonDocker\\BussinessLogic\\DockerBussinessLogic.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T06:03:50.505Z",
+              "WhenOpened": "2024-08-26T12:17:23.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\appsettings.json",
+              "RelativeDocumentMoniker": "gRPC_nonDocker\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\demo-k8s-simple\\gRPC_nonDocker\\gRPC_nonDocker\\appsettings.json",
+              "RelativeToolTip": "gRPC_nonDocker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T12:34:41.776Z",
               "EditorCaption": ""
             }
           ]

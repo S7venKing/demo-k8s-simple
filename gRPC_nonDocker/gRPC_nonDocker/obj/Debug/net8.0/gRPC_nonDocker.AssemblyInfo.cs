@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gRPC_nonDocker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2c25e2dfe2155da51d6de4439e0dc8118addce6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+529fe32baefe1a369c9b67f3e7a23a7bd3b724ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("gRPC_nonDocker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gRPC_nonDocker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
